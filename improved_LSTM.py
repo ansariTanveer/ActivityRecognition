@@ -529,5 +529,7 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 
+# testing commit
+
 # --------------------  Enhanced features Bidirectional LSTM ends here -------------------------
 #</editor-fold>
